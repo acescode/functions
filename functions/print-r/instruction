@@ -1,0 +1,25 @@
+# Objective
+
+print code to pdf function
+
+## 1. find all code files in directory
+
+## 2. get the text and syntax highlight
+
+## 2. print to pdf
+
+### test file
+
+test-file
+
+### codefile
+
+code
+
+### Goal
+
+Write programming code in code file which accomplishes print to pdf
+
+### Reason
+
+I have very many pages of code I need to deliver
